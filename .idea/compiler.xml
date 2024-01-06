@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api-gateway (1) (com.api-gateway)" />
+        <module name="post (2) (com.myblog.post)" />
+        <module name="service-registry (1)" />
+        <module name="post (1) (com.myblog.post)" />
+        <module name="api-gateway (1)" />
+        <module name="blogger" />
+        <module name="server-service" />
+        <module name="comment (1) (com.microservice.comment)" />
+        <module name="post" />
+        <module name="comment (1)" />
+        <module name="api-gateway" />
+        <module name="myblog" />
+        <module name="comment" />
+        <module name="service-registry" />
+        <module name="spring-boot-login-example" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api-gateway" options="-parameters" />
+      <module name="api-gateway (1)" options="-parameters" />
+      <module name="api-gateway (1) (com.api-gateway)" options="-parameters" />
+      <module name="blogger" options="-parameters" />
+      <module name="comment" options="-parameters" />
+      <module name="comment (1)" options="-parameters" />
+      <module name="comment (1) (com.microservice.comment)" options="-parameters" />
+      <module name="myblog" options="-parameters" />
+      <module name="post" options="-parameters" />
+      <module name="post (1) (com.myblog.post)" options="-parameters" />
+      <module name="post (2) (com.myblog.post)" options="-parameters" />
+      <module name="server-service" options="-parameters" />
+      <module name="service-registry" options="-parameters" />
+      <module name="service-registry (1)" options="-parameters" />
+      <module name="spring-boot-login-example" options="-parameters" />
+    </option>
+  </component>
+</project>

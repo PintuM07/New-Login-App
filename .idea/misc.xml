@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Project/myblog/pom.xml" />
+        <option value="$PROJECT_DIR$/myblog10/pom.xml" />
+        <option value="$PROJECT_DIR$/myblog-microservices/post/pom.xml" />
+        <option value="$PROJECT_DIR$/myblog-microservices/myblog/post/pom.xml" />
+        <option value="$PROJECT_DIR$/myblog-microservices/myblog/myblog/post/pom.xml" />
+        <option value="$PROJECT_DIR$/myblog-microservices/myblog/myblog/comment/pom.xml" />
+        <option value="$PROJECT_DIR$/myblog-microservices/myblog/myblog/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/myblog-microservices/myblog/myblog/service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/myblog-microservices/myblog/comment/pom.xml" />
+        <option value="$PROJECT_DIR$/myblog-microservices/myblog/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/myblog-microservices/myblog/service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/myblog-microservices/comment/pom.xml" />
+        <option value="$PROJECT_DIR$/myblog-microservices/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/myblog-microservices/server-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-login-example/pom.xml" />
+      </list>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

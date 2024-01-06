@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Project/myblog/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myblog-microservices/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myblog-microservices/comment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myblog-microservices/myblog/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myblog-microservices/myblog/comment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myblog-microservices/myblog/myblog/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myblog-microservices/myblog/myblog/comment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myblog-microservices/myblog/myblog/post/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myblog-microservices/myblog/myblog/service-registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myblog-microservices/myblog/post/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myblog-microservices/myblog/service-registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myblog-microservices/post/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myblog-microservices/server-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myblog10/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-login-example/src/main/java" charset="UTF-8" />
+  </component>
+</project>
